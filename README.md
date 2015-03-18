@@ -15,6 +15,8 @@ Golang中国([www.golangtc.com](http://www.golangtc.com))源代码.
 - code.google.com/p/go-uuid/uuid
 - github.com/jimmykuu/webhelpers
 - github.com/jimmykuu/wtforms
+- github.com/bradrydzewski/go.auth
+- github.com/dchest/captcha
 
 ##Install
 
